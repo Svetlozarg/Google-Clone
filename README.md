@@ -1,5 +1,9 @@
 # google-app
 
+<a href="https://fir-38591.web.app">Link to Google Clone</a>
+
+A Google Clone built with Vue.js
+
 ## Project setup
 ```
 npm install
